@@ -1,6 +1,6 @@
-<?php
+<
 // Database connection
-$host = "localhost";
+$host = ?php"localhost";
 $user = "root";
 $password = "";
 $database = "inventory_system";
